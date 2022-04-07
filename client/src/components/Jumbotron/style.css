@@ -1,0 +1,17 @@
+.jumbotron {
+  padding: 50px;
+  background-color: blanchedalmond;
+  max-height: 200px;
+}
+.jumbo-blue{
+  color: blue;
+}
+.jumbo-red{
+  color: red;
+}
+.jumbo-yellow{
+  color: gold;
+}
+.jumbo-green{
+  color: green;
+}
