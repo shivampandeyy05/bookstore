@@ -4,14 +4,9 @@ Full Stack MERN application to search for books from the Google Book API, and th
 
 
 # Table of contents
-1. [Installation](#Installation)
-2. [Usage](#Usage)
-3. [Live Demo](#Live_Demo)
-4. [Features](#Features)
-5. [Technology](#Technology)
-6. [User Story](#User_Story)
-7. [Contributors](#Contributors)
-8. [Badges](#Badges)
+1. [Live Demo](#Live_Demo)
+2. [Features](#Features)
+3. [Technology](#Technology)
 
 <a name="Live_Demo"></a>
 ## Live Demo
