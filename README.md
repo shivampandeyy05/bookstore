@@ -1,5 +1,5 @@
 
-# GoogleBookShelf
+# BookStore
 Full Stack MERN application to search for books from the Google Book API, and then store them in a Mongo data base.
 
 
