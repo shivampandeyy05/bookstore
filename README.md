@@ -1,53 +1,41 @@
-# google-book-search
-![Badge license MIT](https://img.shields.io/badge/license-MIT-green)
-
-## Description 
-
-A book search using Google Api. Enter a book title and get information on various editions of the book. Save favorites for reference offline. 
-
-## Table of Contents
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Credits](#credits)
-* [Tests](#tests)
-* [Questions](#questions)
+# GoogleBookShelf
+Full Stack MERN application to search for books from the Google Book API, and then store them in a Mongo data base.
 
 
+# Table of contents
+1. [Installation](#Installation)
+2. [Usage](#Usage)
+3. [Live Demo](#Live_Demo)
+4. [Features](#Features)
+5. [Technology](#Technology)
+6. [User Story](#User_Story)
+7. [Contributors](#Contributors)
+8. [Badges](#Badges)
+
+<a name="Installation"></a>
 ## Installation
+```sh
+npm install
+```
+<a name="Usage"></a>
+## Usage
+```sh
+npm start
+```
+<a name="Live_Demo"></a>
+## Live Demo
+<a href="">Live Demo on Heroku</a>
 
-Local usage requires installation of node.js and mongoDB. 
+<a name="Features"></a>
+## Features
+1. search for books
+2. save books
+3. delete books
 
-Installation steps:
-1. "npm i" to install dependencies. 
-2. "npm start" to start the server
+<a name="Technology"></a>
+## Technology
+1.  React
+1.  Express
+2.  NodeJS
+3.  GoogleBooksAPI
 
-Note that the client and the server have separate package dependencies, but the run script deploys both.
-
-## Usage 
-![Image of react book search](https://github.com/rzelazny/google-books-search/blob/main/client/src/components/images/book-search-demo.png)
-
-Enter a book title and hit the seatch button. The View button on results links to the Google books page, or hit save to save the information for later reference. Saved information can
-be accessed even without internet access.
-
-## License
-
-This repo is licenced under the MIT license.
-
-## Contributing
-
-Anyone is free to fork their own version of the repo.
-
-## Tests
-
-There are currently no tests for this project.
-
-## Credits
-
-Assistance has been provided by the Rutgers Coding Bootcamp.
-
-## Questions
-
-Please send any questions to my email: <RyanZelazny@gmail.com>
