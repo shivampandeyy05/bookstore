@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GoogleBookShelf
 Full Stack MERN application to search for books from the Google Book API, and then store them in a Mongo data base.
 
@@ -38,4 +39,6 @@ npm start
 1.  Express
 2.  NodeJS
 3.  GoogleBooksAPI
+=======
+>>>>>>> 58148c47a9ef9ec193689bd62d0ec13c271806a2
 
