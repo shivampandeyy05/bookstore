@@ -13,19 +13,9 @@ Full Stack MERN application to search for books from the Google Book API, and th
 7. [Contributors](#Contributors)
 8. [Badges](#Badges)
 
-<a name="Installation"></a>
-## Installation
-```sh
-npm install
-```
-<a name="Usage"></a>
-## Usage
-```sh
-npm start
-```
 <a name="Live_Demo"></a>
 ## Live Demo
-<a href="">Live Demo on Heroku</a>
+<a href="https://bookstore-hub.herokuapp.com/">Live Demo on Heroku</a>
 
 <a name="Features"></a>
 ## Features
